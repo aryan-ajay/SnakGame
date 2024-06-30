@@ -1,7 +1,7 @@
 # Exciting Project Update: Java Snake Game! 🐍
 I’m excited to announce my latest project: a modern twist on the classic Snake game, built completely in Java! This project was an incredible chance to sharpen my Java programming skills and dive deeper into game development.
 
-PNG File (.png)
+Screenshot (191).png
 
 
 **Key Features:**
