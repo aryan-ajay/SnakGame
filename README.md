@@ -1,6 +1,7 @@
 # Exciting Project Update: Java Snake Game! 🐍
 I’m excited to announce my latest project: a modern twist on the classic Snake game, built completely in Java! This project was an incredible chance to sharpen my Java programming skills and dive deeper into game development.
 
+
 **Key Features:**
      - **Smooth Gameplay:** Implemented using the Timer class for consistent game loops.
      - **Modern UI:** Added gradient backgrounds and rounded tiles for a sleek look.
