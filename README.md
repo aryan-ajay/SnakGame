@@ -1,7 +1,7 @@
 # Exciting Project Update: Java Snake Game! 🐍
 I’m excited to announce my latest project: a modern twist on the classic Snake game, built completely in Java! This project was an incredible chance to sharpen my Java programming skills and dive deeper into game development.
 
-Screenshot (191).png
+![Screenshot (191)](https://github.com/aryan-ajay/SnakGame/assets/130049013/e85589e4-4a06-48a3-a206-0738f3d6a36a)
 
 
 **Key Features:**
